@@ -1,6 +1,6 @@
 Nesta aula, iniciamos um repositório Git em um projeto, utilizando o comando "git init" no terminal. 
 Após executar o comando "git init", o repositório Git é criado. 
-Vincular seu repositório local com o GITHUB, além dos principais comandos: 
+Vincular meu repositório local com o GITHUB, além dos principais comandos: 
 git init, git add, git status, git commit, git push, git pull, git pull e git clone
 
 O processo é simples e fundamental para gerenciar versões do projeto.
